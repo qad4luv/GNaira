@@ -68,5 +68,4 @@ Test addresses were assigned the GOVERNOR_ROLE at deployment
 
 This project is open-sourced under the MIT License.
 
-For integration help, UI dashboard, or multisig expansion, feel free to reach out.
 
