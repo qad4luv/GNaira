@@ -14,7 +14,7 @@ Address blacklisting
 
 Optional multisignature control for sensitive operations
 
-Contracts on Somnia Testnet
+Contracts on MegaEth Testnet & Somnia Testnet
 
 Contract Address
 
@@ -25,6 +25,9 @@ Feature Description
  gNGN token with multisig mint/burn
 
 0xad8C3EBFE2fD9EE5F60591f9C495A0d23A81764D
+
+For MegaEth
+https://www.megaexplorer.xyz/address/0xDcAebBD1448C1b4460992784083b65e86b51Fb58
 
  gNGN token with single GOVERNOR role
 
