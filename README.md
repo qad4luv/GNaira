@@ -2,7 +2,7 @@ G-Naira (gNGN) Token
 
 G-Naira (gNGN) is a blockchain-based financial solution developed for the Central Bank to digitize the national currency with transparency, accountability, and programmable control.
 
-This contract is deployed on the Somnia Testnet to demonstrate:
+This contract is deployed on the Megaeth and Somnia Testnet to demonstrate:
 
 ERC20 compliance
 
